@@ -66,6 +66,9 @@ export PATH=$JAVA_HOME/bin:$PATH
 Recordemos que estamos en un servidor sin GUI asi que dare 2 maneras
 para hacer esta instalacion:
 
+**Link del archivo weblogic12.zip [archivo](https://drive.google.com/file/d/1m_WpBQmlzQeWgFSQfsddOFmBbWEvy3vy/view?usp=sharing)**
+
+<br>
 
 1. Primera forma, haciendo uso de **ssh -Y**
 
@@ -93,7 +96,6 @@ Si no tenemos una interfaz grafica, podemos hacer una
 instalacion silenciosa, esta requiere mas configuracion pero es 
 fiable
 
-**Link del archivo weblogic12.zip [archivo](https://drive.google.com/file/d/1m_WpBQmlzQeWgFSQfsddOFmBbWEvy3vy/view?usp=sharing)**
 
 ```shell
 # Creamos la carpeta principal, por ejemplo, con cualquier nombre

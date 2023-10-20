@@ -7,7 +7,9 @@ Este repositorio contiene una colección de guías y documentaciones para divers
 - [Introducción a Oracle Database en Oracle linux](https://github.com/D4rk61/Oracle-database)
 - [Creacion de un entorno X11, para administracion de Oracle linux](https://github.com/D4rk61/sshX11.git)
 - [Guía de Instalación de Oracle WebLogic 12 en Oracle Linux 8](/guias/WebLogic-install.md)
-- 
+
+<br>
+
 ## Contribuir
 
 Si deseas contribuir con nuevas guías, corregir errores o mejorar las existentes, ¡Estaria muy agradecido contigo! 
